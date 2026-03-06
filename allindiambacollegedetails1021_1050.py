@@ -15,36 +15,36 @@ from selenium.common.exceptions import TimeoutException
 
 # ---------------- URLS ----------------
 BASE_URL = [
-  "https://www.shiksha.com/college/national-stock-exchange-nse-bandra-east-mumbai-48560",
-  "https://www.shiksha.com/university/graphic-era-hill-university-haldwani-150807",
-  "https://www.shiksha.com/university/takshashila-university-villupuram-211837",
-  "https://www.shiksha.com/college/dr-d-y-patil-center-for-management-and-research-mba-chikhali-road-pune-64211",
-  "https://www.shiksha.com/college/guru-gobind-singh-educational-society-s-technical-campus-bokaro-steel-city-65183",
-  "https://www.shiksha.com/college/sushila-suryawanshi-management-institute-of-technology-advancement-amravati-213271",
-  "https://www.shiksha.com/college/apeejay-institute-of-management-and-engineering-technical-campus-jalandhar-24788",
-  "https://www.shiksha.com/college/sjcet-st-joseph-s-college-of-engineering-and-technology-kottayam-36625",
-  "https://www.shiksha.com/college/avs-engineering-college-salem-37543",
-  "https://www.shiksha.com/college/indian-institute-of-tourism-and-travel-management-gwalior-25237",
-  "https://www.shiksha.com/college/sri-indu-college-of-engineering-and-technology-ranga-reddy-44819",
-  "https://www.shiksha.com/university/ranchi-university-20977",
-  "https://www.shiksha.com/university/alakh-prakash-goyal-shimla-university-34819",
-  "https://www.shiksha.com/university/chirayu-university-bhopal-227961",
-  "https://www.shiksha.com/college/de-paul-institute-of-science-and-technology-dist-kochi-30690",
-  "https://www.shiksha.com/college/people-education-isbr-business-school-electronic-city-phase-1-bangalore-63671",
-  "https://www.shiksha.com/college/acharyapuram-agri-business-management-school-greater-noida-226979",
-  "https://www.shiksha.com/college/solamalai-college-of-engineering-madurai-20946",
-  "https://www.shiksha.com/college/kanpur-institute-of-management-studies-unnao-38004",
-  "https://www.shiksha.com/college/icri-jaipur-national-university-jaipur-56521",
-  "https://www.shiksha.com/college/pannala-ram-reddy-college-of-business-management-hyderabad-62181",
-  "https://www.shiksha.com/college/j-j-college-of-arts-and-science-pudukkottai-72369",
-  "https://www.shiksha.com/college/k-k-vigyan-avam-vyavsaik-adhyayan-mahavidyalaya-indore-72537",
-  "https://www.shiksha.com/college/dhanalakshmi-srinivasan-college-of-arts-and-science-for-women-tamil-nadu-other-42499",
-  "https://www.shiksha.com/college/rajendra-mane-college-of-engineering-and-technology-rmcet-ratnagiri-20959",
-  "https://www.shiksha.com/college/madhusudan-institute-of-co-operative-management-bhubaneswar-42988",
-  "https://www.shiksha.com/university/kolhan-university-jharkhand-other-55963",
-  "https://www.shiksha.com/college/srm-arts-and-science-college-kanchipuram-150481",
-  "https://www.shiksha.com/university/potti-sreeramulu-telugu-university-pstu-hyderabad-905",
-  "https://www.shiksha.com/college/npr-college-of-engineering-and-technology-dindigul-48089",
+  "https://www.shiksha.com/university/arunodaya-university-itanagar-64569",
+  "https://www.shiksha.com/college/dr-m-c-saxena-group-of-colleges-mcsgoc-lucknow-24074",
+  "https://www.shiksha.com/college/doon-business-school-dehradun-admission-office-38577",
+  "https://www.shiksha.com/college/institute-of-management-studies-career-development-and-research-ahmednagar-64181",
+  "https://www.shiksha.com/college/providence-college-of-engineering-pce-kerala-other-48940",
+  "https://www.shiksha.com/college/guru-gobind-singh-foundation-s-guru-gobind-singh-college-of-engineering-and-research-centre-nashik-59747",
+  "https://www.shiksha.com/college/matrusri-institute-of-pg-studies-hyderabad-62153",
+  "https://www.shiksha.com/college/st-john-s-pg-college-rangareddy-hyderabad-62249",
+  "https://www.shiksha.com/college/marian-academy-of-management-studies-ernakulum-73449",
+  "https://www.shiksha.com/college/st-george-college-of-management-science-and-nursing-banasavadi-bangalore-35111",
+  "https://www.shiksha.com/university/imu-imu-vizag-indian-maritime-university-visakhapatnam-51901",
+  "https://www.shiksha.com/college/ubs-universal-business-school-executive-education-malad-west-mumbai-62619",
+  "https://www.shiksha.com/university/dr-b-r-ambedkar-university-of-social-sciences-indore-64853",
+  "https://www.shiksha.com/college/dairy-science-college-bangalore-hebbal-51552",
+  "https://www.shiksha.com/college/srm-madurai-college-for-engineering-and-technology-29312",
+  "https://www.shiksha.com/college/dmi-development-management-institute-patna-47956",
+  "https://www.shiksha.com/college/finxl-business-school-baner-pune-213269",
+  "https://www.shiksha.com/college/ssbt-s-college-of-engineering-and-technology-jalgaon-21148",
+  "https://www.shiksha.com/college/saroj-institute-of-technology-and-management-lucknow-24802",
+  "https://www.shiksha.com/college/phonics-university-haridwar-37633",
+  "https://www.shiksha.com/college/potti-sriramulu-college-of-engineering-and-technology-vijayawada-60875",
+  "https://www.shiksha.com/college/sri-indu-institute-of-management-telangana-other-62207",
+  "https://www.shiksha.com/university/jan-nayak-ch-devi-lal-vidyapeeth-jcdv-haryana-other-23179",
+  "https://www.shiksha.com/college/gandhi-institute-of-technology-and-management-bhubaneswar-36696",
+  "https://www.shiksha.com/college/vivek-college-of-management-technology-bijnaur-uttar-pradesh-other-65535",
+  "https://www.shiksha.com/university/gulbarga-university-karnataka-other-38374",
+  "https://www.shiksha.com/college/patel-group-of-institutions-patel-college-of-science-technology-indore-60421",
+  "https://www.shiksha.com/college/suprabhath-institute-for-management-and-computer-studies-ranga-reddy-62319",
+  "https://www.shiksha.com/college/sagar-institute-of-research-and-technology-excellence-bhopal-42828",
+  "https://www.shiksha.com/college/shri-gulabrao-deokar-college-of-engineering-jalgaon-43220",
 ]
 
 
@@ -70,7 +70,7 @@ def create_driver():
     options = Options()
 
     # Mandatory for GitHub Actions
-    options.add_argument("--headless=new")
+    # options.add_argument("--headless=new")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--disable-gpu")
@@ -83,7 +83,7 @@ def create_driver():
     )
 
     # Important for Ubuntu runner
-    options.binary_location = "/usr/bin/chromium"
+    # options.binary_location = "/usr/bin/chromium"
 
     service = Service(ChromeDriverManager().install())
 

@@ -66,31 +66,21 @@ def build_urls(BASE_URL):
         # "qna": "https://ask.shiksha.com/which-is-better-for-mba-iim-ahmedabad-or-jbims-qna-5114413"
     }
 # ---------------- DRIVER ----------------
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+
 def create_driver():
-
     options = Options()
-
-    options.binary_location = "/usr/bin/chromium-browser"
-    options.page_load_strategy = "eager"
-
 
     options.add_argument("--headless=new")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--disable-gpu")
-    options.add_argument("--window-size=1920,1080")
+    options.add_argument("--remote-debugging-port=9222")
 
-    options.add_argument(
-        "user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    )
+    driver = webdriver.Chrome(options=options)
 
-    service = Service("/usr/bin/chromedriver")
-
-    driver = webdriver.Chrome(
-        service=service,
-        options=options
-    )
+    driver.set_page_load_timeout(300)
 
     return driver
 

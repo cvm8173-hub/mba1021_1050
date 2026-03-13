@@ -1,7 +1,7 @@
 [
   {
     "college_details": {
-      "id": "college_1021",
+      "id": "college_2091",
       "college_info": {
         "college_info": {
           "college_info": {
@@ -174,7 +174,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -186,7 +186,7 @@
               "graph_image": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
             },
             "pgp_placements": {
               "title": "IIM Ahmedabad PGP Placements 2025",
@@ -198,7 +198,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
             }
           }
         }
@@ -360,7 +360,7 @@
   },
   {
     "college_details": {
-      "id": "college_1022",
+      "id": "college_2092",
       "college_info": {
         "college_info": {
           "college_info": {
@@ -533,7 +533,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -545,7 +545,7 @@
               "graph_image": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
             },
             "pgp_placements": {
               "title": "IIM Ahmedabad PGP Placements 2025",
@@ -557,7 +557,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
             }
           }
         }
@@ -719,7 +719,7 @@
   },
   {
     "college_details": {
-      "id": "college_1023",
+      "id": "college_2093",
       "college_info": {
         "college_info": {
           "college_info": {
@@ -892,7 +892,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -904,7 +904,7 @@
               "graph_image": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
             },
             "pgp_placements": {
               "title": "IIM Ahmedabad PGP Placements 2025",
@@ -916,7 +916,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
             }
           }
         }
@@ -1078,7 +1078,7 @@
   },
   {
     "college_details": {
-      "id": "college_1024",
+      "id": "college_2094",
       "college_info": {
         "college_info": {
           "college_info": {
@@ -1251,7 +1251,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -1263,7 +1263,7 @@
               "graph_image": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
             },
             "pgp_placements": {
               "title": "IIM Ahmedabad PGP Placements 2025",
@@ -1275,7 +1275,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
             }
           }
         }
@@ -1437,7 +1437,7 @@
   },
   {
     "college_details": {
-      "id": "college_1025",
+      "id": "college_2095",
       "college_info": {
         "college_info": {
           "college_info": {
@@ -1610,7 +1610,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -1622,7 +1622,7 @@
               "graph_image": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
             },
             "pgp_placements": {
               "title": "IIM Ahmedabad PGP Placements 2025",
@@ -1634,7 +1634,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
             }
           }
         }
@@ -1796,7 +1796,7 @@
   },
   {
     "college_details": {
-      "id": "college_1026",
+      "id": "college_2096",
       "college_info": {
         "college_info": {
           "college_info": {
@@ -1969,7 +1969,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -1981,7 +1981,7 @@
               "graph_image": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
             },
             "pgp_placements": {
               "title": "IIM Ahmedabad PGP Placements 2025",
@@ -1993,7 +1993,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
             }
           }
         }
@@ -2155,7 +2155,7 @@
   },
   {
     "college_details": {
-      "id": "college_1027",
+      "id": "college_2097",
       "college_info": {
         "college_info": {
           "college_info": {
@@ -2328,7 +2328,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -2340,7 +2340,7 @@
               "graph_image": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
             },
             "pgp_placements": {
               "title": "IIM Ahmedabad PGP Placements 2025",
@@ -2352,7 +2352,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
             }
           }
         }
@@ -2514,7 +2514,7 @@
   },
   {
     "college_details": {
-      "id": "college_1028",
+      "id": "college_2098",
       "college_info": {
         "college_info": {
           "college_info": {
@@ -2687,7 +2687,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -2699,7 +2699,7 @@
               "graph_image": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
             },
             "pgp_placements": {
               "title": "IIM Ahmedabad PGP Placements 2025",
@@ -2711,7 +2711,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
             }
           }
         }
@@ -2873,7 +2873,7 @@
   },
   {
     "college_details": {
-      "id": "college_1029",
+      "id": "college_2099",
       "college_info": {
         "college_info": {
           "college_info": {
@@ -3046,7 +3046,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -3058,7 +3058,7 @@
               "graph_image": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
             },
             "pgp_placements": {
               "title": "IIM Ahmedabad PGP Placements 2025",
@@ -3070,7 +3070,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
             }
           }
         }
@@ -3232,7 +3232,7 @@
   },
   {
     "college_details": {
-      "id": "college_1030",
+      "id": "college_2100",
       "college_info": {
         "college_info": {
           "college_info": {
@@ -3405,7 +3405,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -3417,7 +3417,7 @@
               "graph_image": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
             },
             "pgp_placements": {
               "title": "IIM Ahmedabad PGP Placements 2025",
@@ -3429,1802 +3429,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
-            }
-          }
-        }
-      },
-      "cut_off": {
-        "cut_off": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "placement_data": {},
-          "cutoff_data": {
-            "qualifying_cutoff": {},
-            "year_wise_cutoff": {},
-            "college_comparison": [],
-            "faqs": [],
-            "description": []
-          }
-        }
-      },
-      "ranking": {
-        "ranking": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "ranking_data": {
-            "highlights": {
-              "description": "",
-              "rankings": []
-            },
-            "international_ranking": {
-              "description": "",
-              "qs_ranking": {},
-              "financial_times_ranking": {}
-            },
-            "nirf": {
-              "description": "",
-              "table_data": [],
-              "comparison": [],
-              "ranking_criteria": {}
-            },
-            "outlook": {
-              "description": "",
-              "table_data": [],
-              "comparison": []
-            },
-            "business_today": {
-              "table_data": [],
-              "comparison": []
-            },
-            "qs_world": {
-              "description": "",
-              "rankings": {},
-              "comparison": [],
-              "ranking_criteria": {}
-            },
-            "table_of_contents": []
-          }
-        }
-      },
-      "gallery": {
-        "gallery_page": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "gallery_data": {
-            "table_of_contents": [],
-            "campus_infrastructure": {
-              "images": [],
-              "videos": []
-            },
-            "lab_library_academic": {
-              "images": [],
-              "videos": []
-            },
-            "mini_clips": [],
-            "hostel_sports": {
-              "images": [],
-              "videos": []
-            },
-            "reviews": []
-          }
-        }
-      },
-      "hotel_campus": {
-        "hostel_campus": {
-          "college_name": null,
-          "cover_image": null,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "author_name": "",
-          "update_on": "",
-          "campus_content": {
-            "overview": {
-              "text": "",
-              "images": []
-            },
-            "highlights": [],
-            "hostel": {
-              "description": "",
-              "facilities": [],
-              "fee_tables": [],
-              "images": []
-            },
-            "library": {
-              "description": "",
-              "images": []
-            },
-            "sports": {
-              "description": "",
-              "images": []
-            },
-            "places_nearby": [],
-            "videos": []
-          },
-          "infrastructure_section": {},
-          "reviews": []
-        }
-      },
-      "faculty": {
-        "faculty": null,
-        "faculty_reviews": [],
-        "review_summarisation": null
-      },
-      "compare": {
-        "articles": []
-      },
-      "scholarships": null
-    }
-  },
-  {
-    "college_details": {
-      "id": "college_1031",
-      "college_info": {
-        "college_info": {
-          "college_info": {
-            "college_name": "Access Denied",
-            "rating": null,
-            "logo": null,
-            "cover_image": null,
-            "reviews_count": null,
-            "qa_count": null,
-            "location": null,
-            "city": null,
-            "institute_type": null,
-            "established_year": null,
-            "highlights": {
-              "summary": "Summary not available",
-              "table": [],
-              "faqs": []
-            },
-            "intro": null,
-            "courses": [],
-            "faqs": []
-          },
-          "intro": null,
-          "courses": [],
-          "fees_and_eligibility": {
-            "overview": "Data not available",
-            "courses_table": [],
-            "faqs": [],
-            "key_statistics": {}
-          },
-          "student_reviews": {
-            "total_reviews_count": 0,
-            "average_rating": 0,
-            "reviews_list": [],
-            "video_reviews": [],
-            "review_summary": {}
-          }
-        }
-      },
-      "courses": {
-        "college_info": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null
-        },
-        "overview": "",
-        "courses": [],
-        "fee_structure": {
-          "heading": "",
-          "overview": "",
-          "data": []
-        },
-        "faqs": [],
-        "all_programs": [],
-        "all_courses": [],
-        "faq_section": null
-      },
-      "fees": {
-        "college_info": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null
-        },
-        "fees_overview": {
-          "description": "",
-          "summary_table": [],
-          "total_courses": 0
-        },
-        "course_details": [],
-        "faqs": {
-          "overview_faqs": [],
-          "total_faqs": 0
-        }
-      },
-      "reviews": {
-        "review_summary": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "review_summary": {},
-          "review_videos": [],
-          "individual_reviews": []
-        }
-      },
-      "admission": {
-        "admission_overview": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "admission_overview": {
-            "title": "",
-            "description": "",
-            "key_points": [],
-            "faqs": []
-          },
-          "eligibility_selection": {
-            "title": "",
-            "description": "",
-            "courses_table": [],
-            "faqs": []
-          },
-          "admission_process": {
-            "title": "",
-            "full_content": {},
-            "fees_table": [],
-            "seats_table": [],
-            "courses_data": [],
-            "faqs": [],
-            "videos": []
-          }
-        }
-      },
-      "placement": {
-        "placement_report": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "placement_data": {
-            "title": "IIM Ahmedabad Placement Overview 2025",
-            "paragraphs": [],
-            "tables": [],
-            "faqs": [],
-            "rating": "",
-            "rating_details": "",
-            "links": [],
-            "user_feedback": "",
-            "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
-          },
-          "placement_sections": {
-            "average_package": {
-              "title": "IIM Ahmedabad Average Package 2025",
-              "main_table": [],
-              "top_recruiters": [],
-              "insights": [],
-              "faqs": [],
-              "graph_image": "",
-              "source_info": "",
-              "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
-            },
-            "pgp_placements": {
-              "title": "IIM Ahmedabad PGP Placements 2025",
-              "intro_text": "",
-              "main_table": [],
-              "placement_comparison": [],
-              "pgp_fabm_data": {},
-              "faqs": [],
-              "placement_rating": "",
-              "source_info": "",
-              "complete_content": "",
-              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
-            }
-          }
-        }
-      },
-      "cut_off": {
-        "cut_off": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "placement_data": {},
-          "cutoff_data": {
-            "qualifying_cutoff": {},
-            "year_wise_cutoff": {},
-            "college_comparison": [],
-            "faqs": [],
-            "description": []
-          }
-        }
-      },
-      "ranking": {
-        "ranking": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "ranking_data": {
-            "highlights": {
-              "description": "",
-              "rankings": []
-            },
-            "international_ranking": {
-              "description": "",
-              "qs_ranking": {},
-              "financial_times_ranking": {}
-            },
-            "nirf": {
-              "description": "",
-              "table_data": [],
-              "comparison": [],
-              "ranking_criteria": {}
-            },
-            "outlook": {
-              "description": "",
-              "table_data": [],
-              "comparison": []
-            },
-            "business_today": {
-              "table_data": [],
-              "comparison": []
-            },
-            "qs_world": {
-              "description": "",
-              "rankings": {},
-              "comparison": [],
-              "ranking_criteria": {}
-            },
-            "table_of_contents": []
-          }
-        }
-      },
-      "gallery": {
-        "gallery_page": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "gallery_data": {
-            "table_of_contents": [],
-            "campus_infrastructure": {
-              "images": [],
-              "videos": []
-            },
-            "lab_library_academic": {
-              "images": [],
-              "videos": []
-            },
-            "mini_clips": [],
-            "hostel_sports": {
-              "images": [],
-              "videos": []
-            },
-            "reviews": []
-          }
-        }
-      },
-      "hotel_campus": {
-        "hostel_campus": {
-          "college_name": null,
-          "cover_image": null,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "author_name": "",
-          "update_on": "",
-          "campus_content": {
-            "overview": {
-              "text": "",
-              "images": []
-            },
-            "highlights": [],
-            "hostel": {
-              "description": "",
-              "facilities": [],
-              "fee_tables": [],
-              "images": []
-            },
-            "library": {
-              "description": "",
-              "images": []
-            },
-            "sports": {
-              "description": "",
-              "images": []
-            },
-            "places_nearby": [],
-            "videos": []
-          },
-          "infrastructure_section": {},
-          "reviews": []
-        }
-      },
-      "faculty": {
-        "faculty": null,
-        "faculty_reviews": [],
-        "review_summarisation": null
-      },
-      "compare": {
-        "articles": []
-      },
-      "scholarships": null
-    }
-  },
-  {
-    "college_details": {
-      "id": "college_1032",
-      "college_info": {
-        "college_info": {
-          "college_info": {
-            "college_name": "Access Denied",
-            "rating": null,
-            "logo": null,
-            "cover_image": null,
-            "reviews_count": null,
-            "qa_count": null,
-            "location": null,
-            "city": null,
-            "institute_type": null,
-            "established_year": null,
-            "highlights": {
-              "summary": "Summary not available",
-              "table": [],
-              "faqs": []
-            },
-            "intro": null,
-            "courses": [],
-            "faqs": []
-          },
-          "intro": null,
-          "courses": [],
-          "fees_and_eligibility": {
-            "overview": "Data not available",
-            "courses_table": [],
-            "faqs": [],
-            "key_statistics": {}
-          },
-          "student_reviews": {
-            "total_reviews_count": 0,
-            "average_rating": 0,
-            "reviews_list": [],
-            "video_reviews": [],
-            "review_summary": {}
-          }
-        }
-      },
-      "courses": {
-        "college_info": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null
-        },
-        "overview": "",
-        "courses": [],
-        "fee_structure": {
-          "heading": "",
-          "overview": "",
-          "data": []
-        },
-        "faqs": [],
-        "all_programs": [],
-        "all_courses": [],
-        "faq_section": null
-      },
-      "fees": {
-        "college_info": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null
-        },
-        "fees_overview": {
-          "description": "",
-          "summary_table": [],
-          "total_courses": 0
-        },
-        "course_details": [],
-        "faqs": {
-          "overview_faqs": [],
-          "total_faqs": 0
-        }
-      },
-      "reviews": {
-        "review_summary": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "review_summary": {},
-          "review_videos": [],
-          "individual_reviews": []
-        }
-      },
-      "admission": {
-        "admission_overview": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "admission_overview": {
-            "title": "",
-            "description": "",
-            "key_points": [],
-            "faqs": []
-          },
-          "eligibility_selection": {
-            "title": "",
-            "description": "",
-            "courses_table": [],
-            "faqs": []
-          },
-          "admission_process": {
-            "title": "",
-            "full_content": {},
-            "fees_table": [],
-            "seats_table": [],
-            "courses_data": [],
-            "faqs": [],
-            "videos": []
-          }
-        }
-      },
-      "placement": {
-        "placement_report": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "placement_data": {
-            "title": "IIM Ahmedabad Placement Overview 2025",
-            "paragraphs": [],
-            "tables": [],
-            "faqs": [],
-            "rating": "",
-            "rating_details": "",
-            "links": [],
-            "user_feedback": "",
-            "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
-          },
-          "placement_sections": {
-            "average_package": {
-              "title": "IIM Ahmedabad Average Package 2025",
-              "main_table": [],
-              "top_recruiters": [],
-              "insights": [],
-              "faqs": [],
-              "graph_image": "",
-              "source_info": "",
-              "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
-            },
-            "pgp_placements": {
-              "title": "IIM Ahmedabad PGP Placements 2025",
-              "intro_text": "",
-              "main_table": [],
-              "placement_comparison": [],
-              "pgp_fabm_data": {},
-              "faqs": [],
-              "placement_rating": "",
-              "source_info": "",
-              "complete_content": "",
-              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
-            }
-          }
-        }
-      },
-      "cut_off": {
-        "cut_off": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "placement_data": {},
-          "cutoff_data": {
-            "qualifying_cutoff": {},
-            "year_wise_cutoff": {},
-            "college_comparison": [],
-            "faqs": [],
-            "description": []
-          }
-        }
-      },
-      "ranking": {
-        "ranking": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "ranking_data": {
-            "highlights": {
-              "description": "",
-              "rankings": []
-            },
-            "international_ranking": {
-              "description": "",
-              "qs_ranking": {},
-              "financial_times_ranking": {}
-            },
-            "nirf": {
-              "description": "",
-              "table_data": [],
-              "comparison": [],
-              "ranking_criteria": {}
-            },
-            "outlook": {
-              "description": "",
-              "table_data": [],
-              "comparison": []
-            },
-            "business_today": {
-              "table_data": [],
-              "comparison": []
-            },
-            "qs_world": {
-              "description": "",
-              "rankings": {},
-              "comparison": [],
-              "ranking_criteria": {}
-            },
-            "table_of_contents": []
-          }
-        }
-      },
-      "gallery": {
-        "gallery_page": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "gallery_data": {
-            "table_of_contents": [],
-            "campus_infrastructure": {
-              "images": [],
-              "videos": []
-            },
-            "lab_library_academic": {
-              "images": [],
-              "videos": []
-            },
-            "mini_clips": [],
-            "hostel_sports": {
-              "images": [],
-              "videos": []
-            },
-            "reviews": []
-          }
-        }
-      },
-      "hotel_campus": {
-        "hostel_campus": {
-          "college_name": null,
-          "cover_image": null,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "author_name": "",
-          "update_on": "",
-          "campus_content": {
-            "overview": {
-              "text": "",
-              "images": []
-            },
-            "highlights": [],
-            "hostel": {
-              "description": "",
-              "facilities": [],
-              "fee_tables": [],
-              "images": []
-            },
-            "library": {
-              "description": "",
-              "images": []
-            },
-            "sports": {
-              "description": "",
-              "images": []
-            },
-            "places_nearby": [],
-            "videos": []
-          },
-          "infrastructure_section": {},
-          "reviews": []
-        }
-      },
-      "faculty": {
-        "faculty": null,
-        "faculty_reviews": [],
-        "review_summarisation": null
-      },
-      "compare": {
-        "articles": []
-      },
-      "scholarships": null
-    }
-  },
-  {
-    "college_details": {
-      "id": "college_1033",
-      "college_info": {
-        "college_info": {
-          "college_info": {
-            "college_name": "Access Denied",
-            "rating": null,
-            "logo": null,
-            "cover_image": null,
-            "reviews_count": null,
-            "qa_count": null,
-            "location": null,
-            "city": null,
-            "institute_type": null,
-            "established_year": null,
-            "highlights": {
-              "summary": "Summary not available",
-              "table": [],
-              "faqs": []
-            },
-            "intro": null,
-            "courses": [],
-            "faqs": []
-          },
-          "intro": null,
-          "courses": [],
-          "fees_and_eligibility": {
-            "overview": "Data not available",
-            "courses_table": [],
-            "faqs": [],
-            "key_statistics": {}
-          },
-          "student_reviews": {
-            "total_reviews_count": 0,
-            "average_rating": 0,
-            "reviews_list": [],
-            "video_reviews": [],
-            "review_summary": {}
-          }
-        }
-      },
-      "courses": {
-        "college_info": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null
-        },
-        "overview": "",
-        "courses": [],
-        "fee_structure": {
-          "heading": "",
-          "overview": "",
-          "data": []
-        },
-        "faqs": [],
-        "all_programs": [],
-        "all_courses": [],
-        "faq_section": null
-      },
-      "fees": {
-        "college_info": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null
-        },
-        "fees_overview": {
-          "description": "",
-          "summary_table": [],
-          "total_courses": 0
-        },
-        "course_details": [],
-        "faqs": {
-          "overview_faqs": [],
-          "total_faqs": 0
-        }
-      },
-      "reviews": {
-        "review_summary": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "review_summary": {},
-          "review_videos": [],
-          "individual_reviews": []
-        }
-      },
-      "admission": {
-        "admission_overview": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "admission_overview": {
-            "title": "",
-            "description": "",
-            "key_points": [],
-            "faqs": []
-          },
-          "eligibility_selection": {
-            "title": "",
-            "description": "",
-            "courses_table": [],
-            "faqs": []
-          },
-          "admission_process": {
-            "title": "",
-            "full_content": {},
-            "fees_table": [],
-            "seats_table": [],
-            "courses_data": [],
-            "faqs": [],
-            "videos": []
-          }
-        }
-      },
-      "placement": {
-        "placement_report": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "placement_data": {
-            "title": "IIM Ahmedabad Placement Overview 2025",
-            "paragraphs": [],
-            "tables": [],
-            "faqs": [],
-            "rating": "",
-            "rating_details": "",
-            "links": [],
-            "user_feedback": "",
-            "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
-          },
-          "placement_sections": {
-            "average_package": {
-              "title": "IIM Ahmedabad Average Package 2025",
-              "main_table": [],
-              "top_recruiters": [],
-              "insights": [],
-              "faqs": [],
-              "graph_image": "",
-              "source_info": "",
-              "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
-            },
-            "pgp_placements": {
-              "title": "IIM Ahmedabad PGP Placements 2025",
-              "intro_text": "",
-              "main_table": [],
-              "placement_comparison": [],
-              "pgp_fabm_data": {},
-              "faqs": [],
-              "placement_rating": "",
-              "source_info": "",
-              "complete_content": "",
-              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
-            }
-          }
-        }
-      },
-      "cut_off": {
-        "cut_off": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "placement_data": {},
-          "cutoff_data": {
-            "qualifying_cutoff": {},
-            "year_wise_cutoff": {},
-            "college_comparison": [],
-            "faqs": [],
-            "description": []
-          }
-        }
-      },
-      "ranking": {
-        "ranking": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "ranking_data": {
-            "highlights": {
-              "description": "",
-              "rankings": []
-            },
-            "international_ranking": {
-              "description": "",
-              "qs_ranking": {},
-              "financial_times_ranking": {}
-            },
-            "nirf": {
-              "description": "",
-              "table_data": [],
-              "comparison": [],
-              "ranking_criteria": {}
-            },
-            "outlook": {
-              "description": "",
-              "table_data": [],
-              "comparison": []
-            },
-            "business_today": {
-              "table_data": [],
-              "comparison": []
-            },
-            "qs_world": {
-              "description": "",
-              "rankings": {},
-              "comparison": [],
-              "ranking_criteria": {}
-            },
-            "table_of_contents": []
-          }
-        }
-      },
-      "gallery": {
-        "gallery_page": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "gallery_data": {
-            "table_of_contents": [],
-            "campus_infrastructure": {
-              "images": [],
-              "videos": []
-            },
-            "lab_library_academic": {
-              "images": [],
-              "videos": []
-            },
-            "mini_clips": [],
-            "hostel_sports": {
-              "images": [],
-              "videos": []
-            },
-            "reviews": []
-          }
-        }
-      },
-      "hotel_campus": {
-        "hostel_campus": {
-          "college_name": null,
-          "cover_image": null,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "author_name": "",
-          "update_on": "",
-          "campus_content": {
-            "overview": {
-              "text": "",
-              "images": []
-            },
-            "highlights": [],
-            "hostel": {
-              "description": "",
-              "facilities": [],
-              "fee_tables": [],
-              "images": []
-            },
-            "library": {
-              "description": "",
-              "images": []
-            },
-            "sports": {
-              "description": "",
-              "images": []
-            },
-            "places_nearby": [],
-            "videos": []
-          },
-          "infrastructure_section": {},
-          "reviews": []
-        }
-      },
-      "faculty": {
-        "faculty": null,
-        "faculty_reviews": [],
-        "review_summarisation": null
-      },
-      "compare": {
-        "articles": []
-      },
-      "scholarships": null
-    }
-  },
-  {
-    "college_details": {
-      "id": "college_1034",
-      "college_info": {
-        "college_info": {
-          "college_info": {
-            "college_name": "Access Denied",
-            "rating": null,
-            "logo": null,
-            "cover_image": null,
-            "reviews_count": null,
-            "qa_count": null,
-            "location": null,
-            "city": null,
-            "institute_type": null,
-            "established_year": null,
-            "highlights": {
-              "summary": "Summary not available",
-              "table": [],
-              "faqs": []
-            },
-            "intro": null,
-            "courses": [],
-            "faqs": []
-          },
-          "intro": null,
-          "courses": [],
-          "fees_and_eligibility": {
-            "overview": "Data not available",
-            "courses_table": [],
-            "faqs": [],
-            "key_statistics": {}
-          },
-          "student_reviews": {
-            "total_reviews_count": 0,
-            "average_rating": 0,
-            "reviews_list": [],
-            "video_reviews": [],
-            "review_summary": {}
-          }
-        }
-      },
-      "courses": {
-        "college_info": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null
-        },
-        "overview": "",
-        "courses": [],
-        "fee_structure": {
-          "heading": "",
-          "overview": "",
-          "data": []
-        },
-        "faqs": [],
-        "all_programs": [],
-        "all_courses": [],
-        "faq_section": null
-      },
-      "fees": {
-        "college_info": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null
-        },
-        "fees_overview": {
-          "description": "",
-          "summary_table": [],
-          "total_courses": 0
-        },
-        "course_details": [],
-        "faqs": {
-          "overview_faqs": [],
-          "total_faqs": 0
-        }
-      },
-      "reviews": {
-        "review_summary": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "review_summary": {},
-          "review_videos": [],
-          "individual_reviews": []
-        }
-      },
-      "admission": {
-        "admission_overview": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "admission_overview": {
-            "title": "",
-            "description": "",
-            "key_points": [],
-            "faqs": []
-          },
-          "eligibility_selection": {
-            "title": "",
-            "description": "",
-            "courses_table": [],
-            "faqs": []
-          },
-          "admission_process": {
-            "title": "",
-            "full_content": {},
-            "fees_table": [],
-            "seats_table": [],
-            "courses_data": [],
-            "faqs": [],
-            "videos": []
-          }
-        }
-      },
-      "placement": {
-        "placement_report": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "placement_data": {
-            "title": "IIM Ahmedabad Placement Overview 2025",
-            "paragraphs": [],
-            "tables": [],
-            "faqs": [],
-            "rating": "",
-            "rating_details": "",
-            "links": [],
-            "user_feedback": "",
-            "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
-          },
-          "placement_sections": {
-            "average_package": {
-              "title": "IIM Ahmedabad Average Package 2025",
-              "main_table": [],
-              "top_recruiters": [],
-              "insights": [],
-              "faqs": [],
-              "graph_image": "",
-              "source_info": "",
-              "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
-            },
-            "pgp_placements": {
-              "title": "IIM Ahmedabad PGP Placements 2025",
-              "intro_text": "",
-              "main_table": [],
-              "placement_comparison": [],
-              "pgp_fabm_data": {},
-              "faqs": [],
-              "placement_rating": "",
-              "source_info": "",
-              "complete_content": "",
-              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
-            }
-          }
-        }
-      },
-      "cut_off": {
-        "cut_off": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "placement_data": {},
-          "cutoff_data": {
-            "qualifying_cutoff": {},
-            "year_wise_cutoff": {},
-            "college_comparison": [],
-            "faqs": [],
-            "description": []
-          }
-        }
-      },
-      "ranking": {
-        "ranking": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "ranking_data": {
-            "highlights": {
-              "description": "",
-              "rankings": []
-            },
-            "international_ranking": {
-              "description": "",
-              "qs_ranking": {},
-              "financial_times_ranking": {}
-            },
-            "nirf": {
-              "description": "",
-              "table_data": [],
-              "comparison": [],
-              "ranking_criteria": {}
-            },
-            "outlook": {
-              "description": "",
-              "table_data": [],
-              "comparison": []
-            },
-            "business_today": {
-              "table_data": [],
-              "comparison": []
-            },
-            "qs_world": {
-              "description": "",
-              "rankings": {},
-              "comparison": [],
-              "ranking_criteria": {}
-            },
-            "table_of_contents": []
-          }
-        }
-      },
-      "gallery": {
-        "gallery_page": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "gallery_data": {
-            "table_of_contents": [],
-            "campus_infrastructure": {
-              "images": [],
-              "videos": []
-            },
-            "lab_library_academic": {
-              "images": [],
-              "videos": []
-            },
-            "mini_clips": [],
-            "hostel_sports": {
-              "images": [],
-              "videos": []
-            },
-            "reviews": []
-          }
-        }
-      },
-      "hotel_campus": {
-        "hostel_campus": {
-          "college_name": null,
-          "cover_image": null,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "author_name": "",
-          "update_on": "",
-          "campus_content": {
-            "overview": {
-              "text": "",
-              "images": []
-            },
-            "highlights": [],
-            "hostel": {
-              "description": "",
-              "facilities": [],
-              "fee_tables": [],
-              "images": []
-            },
-            "library": {
-              "description": "",
-              "images": []
-            },
-            "sports": {
-              "description": "",
-              "images": []
-            },
-            "places_nearby": [],
-            "videos": []
-          },
-          "infrastructure_section": {},
-          "reviews": []
-        }
-      },
-      "faculty": {
-        "faculty": null,
-        "faculty_reviews": [],
-        "review_summarisation": null
-      },
-      "compare": {
-        "articles": []
-      },
-      "scholarships": null
-    }
-  },
-  {
-    "college_details": {
-      "id": "college_1035",
-      "college_info": {
-        "college_info": {
-          "college_info": {
-            "college_name": "Access Denied",
-            "rating": null,
-            "logo": null,
-            "cover_image": null,
-            "reviews_count": null,
-            "qa_count": null,
-            "location": null,
-            "city": null,
-            "institute_type": null,
-            "established_year": null,
-            "highlights": {
-              "summary": "Summary not available",
-              "table": [],
-              "faqs": []
-            },
-            "intro": null,
-            "courses": [],
-            "faqs": []
-          },
-          "intro": null,
-          "courses": [],
-          "fees_and_eligibility": {
-            "overview": "Data not available",
-            "courses_table": [],
-            "faqs": [],
-            "key_statistics": {}
-          },
-          "student_reviews": {
-            "total_reviews_count": 0,
-            "average_rating": 0,
-            "reviews_list": [],
-            "video_reviews": [],
-            "review_summary": {}
-          }
-        }
-      },
-      "courses": {
-        "college_info": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null
-        },
-        "overview": "",
-        "courses": [],
-        "fee_structure": {
-          "heading": "",
-          "overview": "",
-          "data": []
-        },
-        "faqs": [],
-        "all_programs": [],
-        "all_courses": [],
-        "faq_section": null
-      },
-      "fees": {
-        "college_info": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null
-        },
-        "fees_overview": {
-          "description": "",
-          "summary_table": [],
-          "total_courses": 0
-        },
-        "course_details": [],
-        "faqs": {
-          "overview_faqs": [],
-          "total_faqs": 0
-        }
-      },
-      "reviews": {
-        "review_summary": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "review_summary": {},
-          "review_videos": [],
-          "individual_reviews": []
-        }
-      },
-      "admission": {
-        "admission_overview": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "admission_overview": {
-            "title": "",
-            "description": "",
-            "key_points": [],
-            "faqs": []
-          },
-          "eligibility_selection": {
-            "title": "",
-            "description": "",
-            "courses_table": [],
-            "faqs": []
-          },
-          "admission_process": {
-            "title": "",
-            "full_content": {},
-            "fees_table": [],
-            "seats_table": [],
-            "courses_data": [],
-            "faqs": [],
-            "videos": []
-          }
-        }
-      },
-      "placement": {
-        "placement_report": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
-          "videos_count": 0,
-          "photos_count": 0,
-          "rating": null,
-          "reviews_count": null,
-          "qa_count": null,
-          "location": null,
-          "city": null,
-          "institute_type": null,
-          "established_year": null,
-          "placement_data": {
-            "title": "IIM Ahmedabad Placement Overview 2025",
-            "paragraphs": [],
-            "tables": [],
-            "faqs": [],
-            "rating": "",
-            "rating_details": "",
-            "links": [],
-            "user_feedback": "",
-            "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
-          },
-          "placement_sections": {
-            "average_package": {
-              "title": "IIM Ahmedabad Average Package 2025",
-              "main_table": [],
-              "top_recruiters": [],
-              "insights": [],
-              "faqs": [],
-              "graph_image": "",
-              "source_info": "",
-              "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
-            },
-            "pgp_placements": {
-              "title": "IIM Ahmedabad PGP Placements 2025",
-              "intro_text": "",
-              "main_table": [],
-              "placement_comparison": [],
-              "pgp_fabm_data": {},
-              "faqs": [],
-              "placement_rating": "",
-              "source_info": "",
-              "complete_content": "",
-              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x56156f5dbb6a <unknown>\n#1 0x56156efeea32 <unknown>\n#2 0x56156f043d66 <unknown>\n#3 0x56156f043fa1 <unknown>\n#4 0x56156f08f144 <unknown>\n#5 0x56156f08c369 <unknown>\n#6 0x56156f035c0f <unknown>\n#7 0x56156f0369d1 <unknown>\n#8 0x56156f5a06b9 <unknown>\n#9 0x56156f5a35c1 <unknown>\n#10 0x56156f58ce29 <unknown>\n#11 0x56156f5a417e <unknown>\n#12 0x56156f5734b0 <unknown>\n#13 0x56156f5c8578 <unknown>\n#14 0x56156f5c874b <unknown>\n#15 0x56156f5da1a3 <unknown>\n#16 0x7f4bf7c9caa4 <unknown>\n#17 0x7f4bf7d29c6c <unknown>\n"
+              "error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"placement_section_about_baseCourse_101\"]\"}\n  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x563ca8fe1b6a <unknown>\n#1 0x563ca89f4a32 <unknown>\n#2 0x563ca8a49d66 <unknown>\n#3 0x563ca8a49fa1 <unknown>\n#4 0x563ca8a95144 <unknown>\n#5 0x563ca8a92369 <unknown>\n#6 0x563ca8a3bc0f <unknown>\n#7 0x563ca8a3c9d1 <unknown>\n#8 0x563ca8fa66b9 <unknown>\n#9 0x563ca8fa95c1 <unknown>\n#10 0x563ca8f92e29 <unknown>\n#11 0x563ca8faa17e <unknown>\n#12 0x563ca8f794b0 <unknown>\n#13 0x563ca8fce578 <unknown>\n#14 0x563ca8fce74b <unknown>\n#15 0x563ca8fe01a3 <unknown>\n#16 0x7fc8b1e9caa4 <unknown>\n#17 0x7fc8b1f29c6c <unknown>\n"
             }
           }
         }

@@ -15,26 +15,26 @@ from selenium.common.exceptions import TimeoutException
 
 # ---------------- URLS ----------------
 BASE_URL = [
-  # "https://www.shiksha.com/college/carlton-business-school-somajiguda-hyderabad-35366",
-  # "https://www.shiksha.com/college/uei-global-dehradun-36363",
-  # "https://www.shiksha.com/college/prathyusha-engineering-college-tiruvallur-chennai-52854",
-  # "https://www.shiksha.com/college/amardeep-singh-shergill-memorial-college-gndu-shahid-bhagat-singh-nagar-55021",
-  # "https://www.shiksha.com/college/malwa-institute-of-science-technology-indore-61243",
-  # "https://www.shiksha.com/college/vani-niketan-institute-of-management-studies-karimnagar-62297",
-  # "https://www.shiksha.com/college/global-group-of-institutions-ggi-lucknow-32997",
-  # "https://www.shiksha.com/college/aimfill-international-coimbatore-37096",
-  # "https://www.shiksha.com/college/ch-institute-of-management-and-commerce-chimc-indore-37583",
-  # "https://www.shiksha.com/college/g-v-m-institute-of-technology-and-management-gvmitm-murthal-43161",
-  "https://www.shiksha.com/college/tmi-academy-of-travel-tourism-and-aviation-studies-pune-shivaji-nagar-49293",
-  "https://www.shiksha.com/college/limen-solutions-lucknow-56735",
-  "https://www.shiksha.com/college/geethanjali-institute-of-pg-studies-nellore-62479",
-  "https://www.shiksha.com/college/sanjeev-institute-of-planning-and-management-east-godavari-62539",
-  "https://www.shiksha.com/college/renaissance-institute-of-management-studies-chandrapur-64205",
-  "https://www.shiksha.com/university/sri-siddhartha-academy-of-higher-education-tumkur-64603",
-  "https://www.shiksha.com/college/saraswati-institute-of-management-and-technology-rudrapur-187459",
-  "https://www.shiksha.com/college/sinhagad-institute-of-business-management-mumbai-189909",
-  "https://www.shiksha.com/college/ahmedabad-institute-of-hospitality-management-212187",
-  "https://www.shiksha.com/college/sage-university-bhopal-powered-by-seekho-212923",
+  "https://www.shiksha.com/university/sri-satya-sai-university-of-technology-and-medical-sciences-sssutms-bhopal-38325",
+  "https://www.shiksha.com/college/mar-thoma-school-of-management-studies-kochi-194689",
+  "https://www.shiksha.com/college/wings-college-dhar-210143",
+  "https://www.shiksha.com/college/rathinam-school-of-business-coimbatore-228369",
+  "https://www.shiksha.com/university/visvesvaraya-technological-university-belgaum-51576",
+  "https://www.shiksha.com/college/global-bifs-academy-nagpur-242348",
+  "https://www.shiksha.com/university/the-indira-gandhi-technological-and-medical-sciences-university-arunachal-pradesh-other-64895",
+  "https://www.shiksha.com/college/shah-satnam-ji-institute-of-technology-and-managment-sirsa-69349",
+  "https://www.shiksha.com/college/v-tech-institute-of-integrated-technology-bulandshahr-77921",
+  "https://www.shiksha.com/college/sict-computer-academy-sagar-115049",
+  "https://www.shiksha.com/college/srikant-sanskrit-mahavidyalaya-shikshan-kalyan-sansthan-bihar-other-116131",
+  "https://www.shiksha.com/college/nityanand-ved-mahavidyalaya-varanasi-116515",
+  "https://www.shiksha.com/college/swami-sarvanand-institute-of-mangement-and-technology-gurdaspur-140089",
+  "https://www.shiksha.com/college/nova-college-of-business-management-krishna-146265",
+  "https://www.shiksha.com/college/dr-k-v-subba-reddy-school-of-business-management-kurnool-146319",
+  "https://www.shiksha.com/college/maharana-pratap-college-of-technology-gwalior-147103",
+  "https://www.shiksha.com/college/shri-baglamukhi-institute-of-management-madhya-pradesh-other-147505",
+  "https://www.shiksha.com/college/arihant-institute-of-commerce-and-management-thallagattapura-kanakapura-road-bangalore-150839",
+  "https://www.shiksha.com/college/sri-institute-of-management-nayagarh-156363",
+  "https://www.shiksha.com/college/vindhya-institute-of-management-and-research-satna-156987",
 ]
 
 
@@ -9274,7 +9274,7 @@ def parse_faq_scholarships_section(driver, URLS):
 def scrape_mba_colleges():
     driver = create_driver()
     all_data = []
-    c_count =2101
+    c_count =2811
 
     try:
         for base_url in BASE_URL:
